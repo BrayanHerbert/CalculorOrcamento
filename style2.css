@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aquamarine;
+}
+div{
+    background-color: rgb(47, 204, 183);
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    top: 50vh;
+}
